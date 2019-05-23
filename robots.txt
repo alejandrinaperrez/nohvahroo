@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rohxeiche.sh3n.xyz/sitemap.xml
